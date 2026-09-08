@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+pymongo
+python-dotenv
+apscheduler
+pydantic
+altair
+requests
+google-generativeai
+streamlit-autorefresh
