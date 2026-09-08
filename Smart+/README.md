@@ -1,6 +1,6 @@
-# Pulse — Campus Health Monitoring & Alert Routing System
+# Smart+ — Campus Health Monitoring & Alert Routing System
 
-Pulse is a full-stack health monitoring platform built as a senior capstone project. It ingests continuous wearable/device health data (heart rate, SpO2, ECG, blood pressure, respiratory rate, and more), detects clinically meaningful anomalies against each student's own baseline, and routes alerts to the right on-campus doctor — closing the loop with automated, AI-assisted notifications and a doctor-facing triage dashboard.
+Smart+ is a full-stack health monitoring platform built as a senior capstone project. It ingests continuous wearable/device health data (heart rate, SpO2, ECG, blood pressure, respiratory rate, and more), detects clinically meaningful anomalies against each student's own baseline, and routes alerts to the right on-campus doctor — closing the loop with automated, AI-assisted notifications and a doctor-facing triage dashboard.
 
 ## ✨ Key Features
 
@@ -55,8 +55,8 @@ Device / Health API
 
 ```bash
 # 1. Clone and enter the project
-git clone https://github.com/<your-username>/pulse.git
-cd pulse
+git clone https://github.com/<your-username>/Smart+.git
+cd Smart+
 
 # 2. Create a virtual environment and install dependencies
 python -m venv .venv
